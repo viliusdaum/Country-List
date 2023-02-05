@@ -1,0 +1,16 @@
+.font-link {
+  font-family: 'Nunito', sans-serif;
+}
+
+h1 {
+  font-size: 4.8rem;
+  color: aliceblue;
+  background-color: #131112;
+  margin: unset;
+  padding: 0.67em;
+  padding-left: 14rem;
+}
+
+body{
+  background-color: #F7F7FF;
+}

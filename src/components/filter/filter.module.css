@@ -1,0 +1,27 @@
+.filter{
+    display: flex;
+    margin-left: 70%;
+    position: absolute;
+    height: 3rem;
+}
+
+button{
+    margin: auto;
+    background-color: inherit;
+    border: unset;
+    font-size: 1rem;
+    cursor: pointer;
+    height: fit-content;
+    font-size: 1rem;
+}
+
+span{
+    font-size: 2rem;
+    margin: auto;
+}
+
+h2{
+    margin-top: 0.2;
+    font-size: 1rem;
+    margin: auto;
+}

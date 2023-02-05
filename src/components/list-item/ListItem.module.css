@@ -1,0 +1,15 @@
+.item{
+    list-style: none;
+    background-color: #F7F7FF;
+    margin-left: 12rem;
+}
+
+.name{
+    font-weight: 700;
+}
+
+hr{
+    margin-left: 0rem;
+    width: 86%;
+    max-width: 85rem;
+}
